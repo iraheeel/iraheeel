@@ -13,18 +13,10 @@ Hi there! 👋 My name is Raheel and I am a computer science student at Air Univ
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently doing Bachelor in Computer Science
 
-## 👯 Connect with me
+## 👯 Contact
 <p>
-    <a href="https://www.linkedin.com/in/abdullahqaisarr/" target="_blank">
-        <img alt="JavaScript"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdullahqaisarr@gmail.com" target="_blank">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=iraheeel@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://github.com/abdullahqaisar" target="_blank">
-        <img alt="Gmail"
-            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
 </p>
 
@@ -53,29 +45,5 @@ Hi there! 👋 My name is Raheel and I am a computer science student at Air Univ
             src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     </a>
   
-    <a href="https://www.w3schools.com/react/" target="_blank">
-        <img alt="ReactJS"
-            src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    </a>
-
-    <a href="https://getbootstrap.com/" target="_blank">
-        <img alt="Bootstrap"
-            src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-    </a>
-    <br />
-    <br />
-    <summary><b>Backend Developement</b></summary>
-    <a href="https://nodejs.org/en/" target="_blank">
-        <img alt="Node.js"
-            src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank">
-        <img alt="Express.JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank">
-        <img alt="MongoDB"
-            src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    </a>
-</p>
 
 
