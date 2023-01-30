@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @iraheeel
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently doing Bachelor in Computer Science
 
 <!---
 iraheeel/iraheeel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +9,9 @@ You can click the Preview link to take a look at your changes.
 
 ## :sassy_man: About me
 Hi there! 👋 My name is Raheel and I am a computer science student at Air University, Islamabad.
+
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently doing Bachelor in Computer Science
 
 ## 👯 Connect with me
 <p>
