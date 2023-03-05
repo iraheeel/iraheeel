@@ -23,7 +23,7 @@ Hi there! 👋 My name is Raheel and I am a computer science student at Air Univ
 
 ## 🛠️ My Skills
 
-<p>
+
     <summary><b>Languages</b></summary>
 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
